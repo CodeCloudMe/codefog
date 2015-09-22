@@ -31,7 +31,7 @@ $ npm start
 
 (Note: When you do npm start, `NODE_PATH` variable is set from package.json start script. If you are doing `node server.js`, you need to make sure to set this)
 
-Then visit [http://localhost:3000/](http://localhost:3000/)
+Then visit [http://localhost:8080/](http://localhost:8080/)
 
 ## Tests
 
